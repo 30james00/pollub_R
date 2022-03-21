@@ -1,0 +1,5 @@
+Lp  Wiek  Odpowiedz
+1   10    N
+2   21    T
+3   12    N
+4   12    T
